@@ -1,0 +1,11 @@
+name: New model
+version: 0.0.1
+schema: v1
+models:
+- name: llama-3-elyza-jp-8b
+  type: lmstudio
+  settings:
+    modelPath: "Llama-3-ELYZA-JP-8B-gguf/Llama-3-ELYZA-JP-8B-Q8_0.gguf"
+    contextLength: 4096
+    temperature: 0.7
+    topP: 0.9

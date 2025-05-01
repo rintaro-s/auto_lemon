@@ -35,3 +35,6 @@ UIを変えたい場合は、[この](https://github.com/rintaro-s/lemon/tree/V2
 コードのコメントはAIに書いてもらったので、間違いがある可能性があります。  
 メインのコードは[content.js](https://github.com/rintaro-s/auto_lemon/blob/main/content.js)と[background.js](https://github.com/rintaro-s/auto_lemon/blob/main/background.js)です。  
 オリジナルで作りたい・バグを直したい人は参考にしてください。
+
+## ライセンスの参考
+### 許可 (Permis一度は

@@ -31,4 +31,5 @@ vivaldiブラウザです。
 
 
 ## その他
-UIを変えたい場合は、[この](https://github.com/rintaro-s/lemon/tree/V2.2)拡張機能も使用してください。
+UIを変えたい場合は、[この](https://github.com/rintaro-s/lemon/tree/V2.2)拡張機能も使用してください。  
+コードのコメントはAIに書いてもらったので、間違いがある可能性があります。

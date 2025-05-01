@@ -1,5 +1,5 @@
 ## ALCnetavademy NEXT student のmodです。
-# 使用、改造、バグ修正等はライセンスに則って行ってください。
+# 使用、改造、バグ修正等は[ライセンス](https://github.com/rintaro-s/auto_lemon/blob/main/LICENSE)に則って行ってください。
 
 
 ## 注意

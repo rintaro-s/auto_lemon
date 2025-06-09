@@ -1,4 +1,4 @@
-## ALCnetavademy NEXT student のmodです。
+## ALNs のmodです。
 # 使用、改造、バグ修正等は[ライセンス](https://github.com/rintaro-s/auto_lemon/blob/main/LICENSE)に則って行ってください。
 
 

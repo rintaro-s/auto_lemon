@@ -11,9 +11,9 @@
 
 ## インストール方法
 ### 簡単インストール
-1. [これ](https://github.com/rintaro-s/auto_lemon/raw/refs/heads/main/auto_lemon.crx)をダウンロード
+1. [これ](https://codeload.github.com/rintaro-s/auto_lemon/zip/refs/heads/main)をダウンロード
 2. 拡張機能の設定を開き、デベロッパーモードをオンにする
-3. さっきのファイルをドラック＆ドロップ
+3. 解答してauto_lemon.crxをドラック＆ドロップ
 ### ソースコードから
 1. これをクローン/ダウンロードする
 2. 拡張機能の設定で開発者モード(デベロッパーモード)をオンにする
